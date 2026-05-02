@@ -1,0 +1,16 @@
+1. querySelector selects first statement from many classes
+2. querySelectorAll gives array like structure... not a array but looks like an array.
+
+** DOM manipulation text/content access
+3. in this case hello is found in innerHTML, textcontent and innerText
+so i changed "hello" to "hello hi bye" to any one of the above innerHTML/ textcontent/innertext. even if i change any one of these, other two will automatically change
+like here i change only inner text but it resulted as changing two other too...h1.innerText="hello hi bye";
+
+**DOM manipulation Attribute manipulation
+4. three types-> i.setAttribute->Used to add or change an attribute here we are manually giving src
+
+             ii.getAttribute-> Used to read/get an attribute value... here we can clearly see href containing what
+
+            iii.removeAttribute-> Used to delete/remove an attribute... here we removed href(u can clearly c in elements).
+
+

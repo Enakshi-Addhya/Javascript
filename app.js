@@ -342,5 +342,5 @@ console.log(newnum);*/
 }
 console.log(user[Firstname]);*/
 
-let a="anjan"
-console.log(a)
+//let a="anjan"
+//console.log(a)

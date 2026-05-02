@@ -337,8 +337,10 @@ console.log(newnum);*/
 
 //Access the value of "First name" from this object
 
-let user = {
-    Firstname: "Enakshi",
+/*let user = {
+    Firstname:"Enakshi",
 }
-console.log(user[Firstname]);
+console.log(user[Firstname]);*/
 
+let a="anjan"
+console.log(a)

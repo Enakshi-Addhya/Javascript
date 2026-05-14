@@ -344,3 +344,6 @@ console.log(user[Firstname]);*/
 
 //let a="anjan"
 //console.log(a)
+
+// object = "key:value"
+
